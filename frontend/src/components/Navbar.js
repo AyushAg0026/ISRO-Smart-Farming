@@ -24,7 +24,7 @@ export default function Navbar({ view, setView, lang, setLang }) {
             <Satellite width={18} height={18} />
           </span>
           <span className="text-left leading-tight">
-            <span className="block font-display font-bold text-[17px] text-ink">KrishiSat</span>
+            <span className="block font-display font-bold text-[17px] text-ink">KrishiNetra</span>
             <span className="block text-[10px] tracking-label text-slate-400 font-mono">ISRO · GIS</span>
           </span>
         </button>

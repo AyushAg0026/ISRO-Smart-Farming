@@ -45,7 +45,7 @@ export default function App() {
 
       {view !== "gis" && (
         <footer className="bg-charcoal text-center py-6 text-slate-500 text-xs">
-          KrishiSat · Powered by Sentinel-2 &amp; Sentinel-1 satellite imagery · ISRO Smart Farming
+          KrishiNetra · Powered by Sentinel-2 &amp; Sentinel-1 satellite imagery · ISRO Smart Farming
         </footer>
       )}
     </div>
