@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { Satellite, Search, Arrow, Sprout, BarChart, Shield, Activity } from "./icons";
 import { STATS, LANGUAGES } from "../data/mock";
 
-// Farmer ploughing photo at frontend/public/hero.webp
-const HERO_IMG = process.env.PUBLIC_URL + "/hero.webp";
+// Farmer ploughing photo at frontend/public/hero.jpeg
+const HERO_IMG = process.env.PUBLIC_URL + "/hero.jpeg";
 
 const QUICK = ["P0001", "P0005", "P0010", "P0014"];
 
